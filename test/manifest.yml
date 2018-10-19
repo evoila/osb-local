@@ -1,0 +1,6 @@
+applications:
+- memory: 1024M
+  name: $APP
+  path: ./spring-music-1.0.jar
+  services:
+  - test
